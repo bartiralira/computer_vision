@@ -1,4 +1,4 @@
-# computer_vision
+# Computer Vision
 
 Trabalho final da disciplina Visão Computacional
 FIAP MBA Inteligência Artificial e Machine Learning Turma 17IA
