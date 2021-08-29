@@ -1,10 +1,10 @@
 # Computer Vision
 
-Trabalho final da disciplina Visão Computacional
-FIAP MBA Inteligência Artificial e Machine Learning Turma 17IA
-
-Nome dos Integrantes:
-Vitor Luiz Carvalhal	RM 337129	
-Bartira Lira Lafiandre	RM 340177
-Tiago Batista Pessoa	RM 339575	
-Ricardo Fabbro Antonelli	RM 339505
+Trabalho final da disciplina Visão Computacional<br>
+FIAP MBA Inteligência Artificial e Machine Learning Turma 17IA<br>
+<br>
+Nome dos Integrantes:<br>
+Vitor Luiz Carvalhal	RM 337129	<br>
+Bartira Lira Lafiandre	RM 340177<br>
+Tiago Batista Pessoa	RM 339575	<br>
+Ricardo Fabbro Antonelli	RM 339505<br>
